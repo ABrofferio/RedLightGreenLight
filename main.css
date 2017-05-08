@@ -1,0 +1,55 @@
+.container {
+    width: 100%;
+    height: 100px;
+    position: relative;
+    background: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    text-align: center;
+}
+.circle {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border-bottom-width: 50px;
+    border-color: black;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#green {
+    background-color: green;
+}
+#yellow {
+    background-color: yellow;
+}
+#red {
+    background-color: red;
+}
+#car1 {
+    width: 35px;
+    height: 25px;
+    position: absolute;
+    background: red;
+    vertical-align: middle;
+}
+#car2 {
+    width: 35px;
+    height: 25px;
+    position: absolute;
+    background: yellow;
+}
+#car3 {
+    width: 35px;
+    height: 25px;
+    position: absolute;
+    background: blue;
+}
+#car4 {
+    width: 35px;
+    height: 25px;
+    position: absolute;
+    background: green;
+}
